@@ -1,7 +1,7 @@
 # Xubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuFocal.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-05-10
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-05-15
 
-- Minimal Xubuntu Focal 20.04 (**xubuntu-core** package)
+- Minimal Xubuntu Focal 20.04
 - Linux Kernel 5.4
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
