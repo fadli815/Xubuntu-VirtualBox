@@ -16,7 +16,7 @@
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
 Integrity information:
-- **MD5:** f8dfc649d7930fa0b0b5bd542f1cea53
-- **SHA-1:** 30042a5c844958034f51400270ee834012c4ce34
-- **SHA-256:** 1f9f35e723dec9dfa0e02963f9aa488c1c86be73479c78b79082f899bff59907
-- **File size:** 418.92 MB (439271936 bytes)
+- **MD5:** 578895609fc909e78786797ad3e64426
+- **SHA-1:** 5817de5e75e12264573ad6177f5758ce3c377a3a
+- **SHA-256:** 07f8fc4c9569f04054a0c3aa04f50e7f63c32850f63db94a724893d2a4cd0fb4
+- **File size:** 418.52 MB (438852096 bytes)
