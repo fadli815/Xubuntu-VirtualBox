@@ -1,5 +1,5 @@
 # Xubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuFocal.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-06-26
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-07-12
 
 - Minimal Xubuntu Focal 20.04
 - Linux Kernel 5.4
