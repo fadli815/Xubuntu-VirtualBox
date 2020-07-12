@@ -16,11 +16,11 @@
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
 Integrity information:
-- **MD5**	578895609fc909e78786797ad3e64426
-- **SHA-1**	5817de5e75e12264573ad6177f5758ce3c377a3a
-- **SHA-256**	07f8fc4c9569f04054a0c3aa04f50e7f63c32850f63db94a724893d2a4cd0fb4
-- **Vhash**	3d5ffc99bae7c6d074650336cb900e20
-- **SSDEEP**	12582912:+lv9trsa33YWzQ4LlzGV+JsUv1JlSSa5uBD14NxnKDK0WzMf:+lv9eaHRs8li0JsUvLBD14NxoK0yM
-- **File type**	TAR
-- **Magic**	POSIX tar archive
-- **File size**	418.52 MB (438852096 bytes)
+-**MD5:**	96ed64685885aac69f5f8128086b45f8
+-**SHA-1:**	2be3fb820dab7dfd51dd4bb700b330b6b22a1786
+-**SHA-256:**	64baf64187d091cd0994b4477df98019b03b33700fd0fcefce3939e0958b8b16
+-**Vhash:**	3d5ffc99bae7c6d074650336cb900e20
+-**SSDEEP:**	12582912:as7JumCe28t9t/4TcEWoQj3Rdsj85sUvNRx1q0qYvYU8LeyfC:as7Juma8t9B+eFjRqo5sUW0qYKLes
+-**File type:**	TAR
+-**Magic:**	POSIX tar archive
+-**File size:**	421.91 MB (442400768 bytes)
