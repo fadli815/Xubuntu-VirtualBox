@@ -15,12 +15,12 @@
 
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
-[Integrity information](https://www.virustotal.com/gui/file/59721171dba5773908c99e6a56046793fa9b3e9b638c40cf2ee9e9181ab954c2/detection):
-- **MD5:**  
-- **SHA-1:**  
-- **SHA-256:**  
-- **Vhash:**  
-- **SSDEEP:** 
+[Integrity information](https://www.virustotal.com/gui/file/9125b8e610813bd9f842f9d206661c4650c77b141f6124dc04074fdc87be0a9f/detection):
+- **MD5:**  8803984b9e2737225952a2614421409d
+- **SHA-1:**  c01dd0c4d3a8c9860e2eca9057f2f16cff1aeaa3
+- **SHA-256:**  9125b8e610813bd9f842f9d206661c4650c77b141f6124dc04074fdc87be0a9f
+- **Vhash:**  3d5ffc99bae7c6d074650336cb900e20
+- **SSDEEP:** 12582912:Ow4y3BOG9sONr3EwlFoA4B6/4QfWuHq+Hhhvsbmkhn2fV6I:OwR3EG9sOp7qA4Bq5OuJqmkhnt
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
-- **File size:**  
+- **File size:**  422.62 MB (443145216 bytes)
