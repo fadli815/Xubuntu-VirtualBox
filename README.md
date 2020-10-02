@@ -3,7 +3,7 @@
 
 - Minimal Xubuntu Focal 20.04.1
 - Linux Kernel 5.4
-- **New!** Added BleachBit to keep your machine small
+- **New!** Added **BleachBit** to keep your machine small
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
 - Basic python http server included. Example: python3 -m http.server 8080
