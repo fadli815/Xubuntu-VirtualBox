@@ -1,8 +1,9 @@
 # Xubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuFocal.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-09-30
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-10-02
 
 - Minimal Xubuntu Focal 20.04.1
 - Linux Kernel 5.4
+- **New!** Added BleachBit to keep your machine small
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Synaptic package manager
 - Basic python http server included. Example: python3 -m http.server 8080
@@ -15,12 +16,12 @@
 
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
-[Integrity information](https://www.virustotal.com/gui/file/9125b8e610813bd9f842f9d206661c4650c77b141f6124dc04074fdc87be0a9f/detection):
-- **MD5:**  8803984b9e2737225952a2614421409d
-- **SHA-1:**  c01dd0c4d3a8c9860e2eca9057f2f16cff1aeaa3
-- **SHA-256:**  9125b8e610813bd9f842f9d206661c4650c77b141f6124dc04074fdc87be0a9f
+[Integrity information](https://www.virustotal.com/gui/file/0aeeafb777e7b04108fcd3cf47004cf27f08106164f91395b2981b820f33a975/detection):
+- **MD5:**  2d3cf4ed301d26d8ca680232629c5ffe
+- **SHA-1:**  cdb5d39003d99bb1cc849f1f35a0d10404b4349f
+- **SHA-256:**  0aeeafb777e7b04108fcd3cf47004cf27f08106164f91395b2981b820f33a975
 - **Vhash:**  3d5ffc99bae7c6d074650336cb900e20
-- **SSDEEP:** 12582912:Ow4y3BOG9sONr3EwlFoA4B6/4QfWuHq+Hhhvsbmkhn2fV6I:OwR3EG9sOp7qA4Bq5OuJqmkhnt
+- **SSDEEP:** 12582912:d+p/lFvNsONnhEwlNNsRRO/4IsWoNsjaMDsF0qfoRp:d+p/7vNsOr7zsRR2FVowa0
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
-- **File size:**  422.62 MB (443145216 bytes)
+- **File size:**  411.84 MB (431843840 bytes)
