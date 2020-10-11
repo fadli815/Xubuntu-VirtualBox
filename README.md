@@ -25,3 +25,16 @@
 - **File type:**  TAR
 - **Magic:**  POSIX tar archive
 - **File size:**  408.57 MB (428412928 bytes)
+
+
+# XubuMaster [ISO](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuMaster.iso)
+
+[Integrity information](https://www.virustotal.com/gui/file/b84343a41d66777d1e33918969ee1f2193ece20c550924e399fb221520b21cd8/details):
+- **MD5:**  e29bdd09220fdfa369106e23c8c780ec
+- **SHA-1:**  ad4258b4d249cb0e07aa06d09f6c4e6a2bd8a4ac
+- **SHA-256:**  b84343a41d66777d1e33918969ee1f2193ece20c550924e399fb221520b21cd8
+- **Vhash:**  172ec2f0064b0dbc5c959b832d093423
+- **SSDEEP:** 12582912:Wzb4QcfeZEydWhoBiJgbvg4VUVfuf2n+2T:idcfeZEyyjubvg562+2
+- **File type:**  ISO image
+- **Magic:**  ISO 9660 CD-ROM filesystem data 'Custom Live CD ' (bootable)
+- **File size:**  396.00 MB (415236096 bytes)
