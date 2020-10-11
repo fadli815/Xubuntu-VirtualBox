@@ -27,7 +27,7 @@
 - **File size:**  408.57 MB (428412928 bytes)
 
 
-# XubuMaster [ISO](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuMaster.iso)
+# XubuMaster: [ISO](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuMaster.iso)
 
 [Integrity information](https://www.virustotal.com/gui/file/b84343a41d66777d1e33918969ee1f2193ece20c550924e399fb221520b21cd8/details):
 - **MD5:**  e29bdd09220fdfa369106e23c8c780ec
