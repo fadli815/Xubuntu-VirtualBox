@@ -29,7 +29,7 @@
 
 # XubuMaster: [ISO DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuMaster.iso)
 
- - ISO that contains Xubuntu VirtualBox + Pinguy Builder
+ - Live ISO that contains Xubuntu VirtualBox + Pinguy Builder
 
 [Integrity information](https://www.virustotal.com/gui/file/b84343a41d66777d1e33918969ee1f2193ece20c550924e399fb221520b21cd8/details):
 - **MD5:**  e29bdd09220fdfa369106e23c8c780ec
