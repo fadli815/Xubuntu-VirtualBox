@@ -17,15 +17,16 @@
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
 [Integrity information](https://www.virustotal.com/gui/file/f9f7d7f195c4297b0bde3573c5480906152fc628bf994e3f4cc667ffe992aff0/detection):
-- **MD5:**  
-- **SHA-1:**  
-- **SHA-256:**  
-- **Vhash:**  
-- **SSDEEP:** 
-- **TLSH:** 
-- **File type:**  TAR
-- **Magic:**  POSIX tar archive
-- **File size:**  
+- **MD5:** a1cb2dec35dd21427c994f568ccfb8aa
+- **SHA-1:** 43fa7f9e49191620b90eabaef69cb09393827ccb
+- **SHA-256:** f9f7d7f195c4297b0bde3573c5480906152fc628bf994e3f4cc667ffe992aff0
+- **Vhash:** 41b80aeb573ad12e6ad7c0f4cc7a680e
+- **SSDEEP:** 12582912:CQurGAsON5Tw8vw24ECkbhoWYPeC737n6XAJrPif:ryGAsOn8ZAhhzzXirKf
+- **TLSH:** T1B12933CCE4B0E409CDD751338A646FC147A1222F8D724C2BA779729E69C7AF9221653F
+- **File type:** TAR
+- **Magic:** POSIX tar archive
+- **TrID:** Open Virtualization Format package
+- **File size:** 411.53 MB (431520768 bytes)
 
 
 # XubuMaster: [ISO DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuMaster.iso)
