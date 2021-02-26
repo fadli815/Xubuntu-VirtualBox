@@ -1,5 +1,5 @@
 # Xubuntu VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuntuFocal.ova)
-[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-02-20
+[**Your OPINION is important**](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/issues/1) - Last update: 2020-02-26
 
 - Minimal Xubuntu Focal 20.04.2
 - Linux Kernel 5.4
@@ -17,16 +17,16 @@
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
 [Integrity information](https://www.virustotal.com/gui/file/f9f7d7f195c4297b0bde3573c5480906152fc628bf994e3f4cc667ffe992aff0/detection):
-- **MD5:** a1cb2dec35dd21427c994f568ccfb8aa
-- **SHA-1:** 43fa7f9e49191620b90eabaef69cb09393827ccb
-- **SHA-256:** f9f7d7f195c4297b0bde3573c5480906152fc628bf994e3f4cc667ffe992aff0
+- **MD5:** b0735e14d223590faea02f527427c51f
+- **SHA-1:** 82a8212b0c5bd88d9e343cc689c210647f130008
+- **SHA-256:** 9d77a4c3d7ccd72f89bb5e4ddcec82de8886b1a483f2f8430aea470b5b90e6b1
 - **Vhash:** 41b80aeb573ad12e6ad7c0f4cc7a680e
-- **SSDEEP:** 12582912:CQurGAsON5Tw8vw24ECkbhoWYPeC737n6XAJrPif:ryGAsOn8ZAhhzzXirKf
-- **TLSH:** T1B12933CCE4B0E409CDD751338A646FC147A1222F8D724C2BA779729E69C7AF9221653F
+- **SSDEEP:** 12582912:ki1dZEsONZTYmQ8pKv492YBXNWXUuSynSW16/fjy:hnZEsO30dNYtU3nSo6
+- **TLSH:** T10F2933CCD470E41ACDA384378A619FD187A5212F4C738C1BE77E728E5A8BAB9121553F
 - **File type:** TAR
 - **Magic:** POSIX tar archive
 - **TrID:** Open Virtualization Format package
-- **File size:** 411.53 MB (431520768 bytes)
+- **File size:** 411.04 MB (431005696 bytes)
 
 
 # XubuMaster: [ISO DOWNLOAD](https://github.com/Virtual-Machines/Xubuntu-VirtualBox/releases/download/latest/XubuMaster.iso)
