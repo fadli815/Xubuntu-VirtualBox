@@ -16,7 +16,7 @@
 
 ![Xubuntu](https://raw.githubusercontent.com/Virtual-Machines/Xubuntu-VirtualBox/master/xubuntu.png)
 
-[Integrity information](https://www.virustotal.com/gui/file/f9f7d7f195c4297b0bde3573c5480906152fc628bf994e3f4cc667ffe992aff0/detection):
+[Integrity information](https://www.virustotal.com/gui/file/9d77a4c3d7ccd72f89bb5e4ddcec82de8886b1a483f2f8430aea470b5b90e6b1/details):
 - **MD5:** b0735e14d223590faea02f527427c51f
 - **SHA-1:** 82a8212b0c5bd88d9e343cc689c210647f130008
 - **SHA-256:** 9d77a4c3d7ccd72f89bb5e4ddcec82de8886b1a483f2f8430aea470b5b90e6b1
